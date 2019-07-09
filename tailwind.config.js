@@ -9,6 +9,7 @@ module.exports = {
                 "rocket-red": "#FF4212",
                 "rocket-red-trans": "rgba(255, 67, 20, 0.8)",
                 "rocket-green": "#00B27A",
+                "rocket-green-light": "#00e69d",
                 "rocket-green-trans": "rgba(0, 179, 122, 0.8)",
             },
             height: {

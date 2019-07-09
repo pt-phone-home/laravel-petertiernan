@@ -245,7 +245,7 @@
                 </div>
                 <div>
                     <p class="italic"> <br> 
-                        Thank you for St. Anne's City Farm amazing website! We are absolutely delighted. 
+                        Thank you for St. Anne's City Farm's amazing website! We are absolutely delighted. 
                         5 &star; service.
                         <br>
                         
