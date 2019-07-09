@@ -3899,6 +3899,10 @@ video {
   height: 5rem;
 }
 
+.h-8r {
+  height: 8rem;
+}
+
 .h-10r {
   height: 10rem;
 }
@@ -4007,6 +4011,10 @@ video {
   height: 5rem;
 }
 
+.hover\:h-8r:hover {
+  height: 8rem;
+}
+
 .hover\:h-10r:hover {
   height: 10rem;
 }
@@ -4113,6 +4121,10 @@ video {
 
 .group:hover .group-hover\:h-5r {
   height: 5rem;
+}
+
+.group:hover .group-hover\:h-8r {
+  height: 8rem;
 }
 
 .group:hover .group-hover\:h-10r {
@@ -11624,6 +11636,10 @@ video {
     height: 5rem;
   }
 
+  .sm\:h-8r {
+    height: 8rem;
+  }
+
   .sm\:h-10r {
     height: 10rem;
   }
@@ -11732,6 +11748,10 @@ video {
     height: 5rem;
   }
 
+  .sm\:hover\:h-8r:hover {
+    height: 8rem;
+  }
+
   .sm\:hover\:h-10r:hover {
     height: 10rem;
   }
@@ -11838,6 +11858,10 @@ video {
 
   .group:hover .sm\:group-hover\:h-5r {
     height: 5rem;
+  }
+
+  .group:hover .sm\:group-hover\:h-8r {
+    height: 8rem;
   }
 
   .group:hover .sm\:group-hover\:h-10r {
@@ -19350,6 +19374,10 @@ video {
     height: 5rem;
   }
 
+  .md\:h-8r {
+    height: 8rem;
+  }
+
   .md\:h-10r {
     height: 10rem;
   }
@@ -19458,6 +19486,10 @@ video {
     height: 5rem;
   }
 
+  .md\:hover\:h-8r:hover {
+    height: 8rem;
+  }
+
   .md\:hover\:h-10r:hover {
     height: 10rem;
   }
@@ -19564,6 +19596,10 @@ video {
 
   .group:hover .md\:group-hover\:h-5r {
     height: 5rem;
+  }
+
+  .group:hover .md\:group-hover\:h-8r {
+    height: 8rem;
   }
 
   .group:hover .md\:group-hover\:h-10r {
@@ -27076,6 +27112,10 @@ video {
     height: 5rem;
   }
 
+  .lg\:h-8r {
+    height: 8rem;
+  }
+
   .lg\:h-10r {
     height: 10rem;
   }
@@ -27184,6 +27224,10 @@ video {
     height: 5rem;
   }
 
+  .lg\:hover\:h-8r:hover {
+    height: 8rem;
+  }
+
   .lg\:hover\:h-10r:hover {
     height: 10rem;
   }
@@ -27290,6 +27334,10 @@ video {
 
   .group:hover .lg\:group-hover\:h-5r {
     height: 5rem;
+  }
+
+  .group:hover .lg\:group-hover\:h-8r {
+    height: 8rem;
   }
 
   .group:hover .lg\:group-hover\:h-10r {
@@ -34802,6 +34850,10 @@ video {
     height: 5rem;
   }
 
+  .xl\:h-8r {
+    height: 8rem;
+  }
+
   .xl\:h-10r {
     height: 10rem;
   }
@@ -34910,6 +34962,10 @@ video {
     height: 5rem;
   }
 
+  .xl\:hover\:h-8r:hover {
+    height: 8rem;
+  }
+
   .xl\:hover\:h-10r:hover {
     height: 10rem;
   }
@@ -35016,6 +35072,10 @@ video {
 
   .group:hover .xl\:group-hover\:h-5r {
     height: 5rem;
+  }
+
+  .group:hover .xl\:group-hover\:h-8r {
+    height: 8rem;
   }
 
   .group:hover .xl\:group-hover\:h-10r {

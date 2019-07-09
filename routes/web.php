@@ -15,6 +15,5 @@
 //     return view('welcome');
 // });
 
-Route::get('/', function () {
-    return view('index');
-});
+Route::get('/', 'PagesController@index')->name('index');
+Route::get('/contact', 'PagesController@contact')->name('contact.get');
