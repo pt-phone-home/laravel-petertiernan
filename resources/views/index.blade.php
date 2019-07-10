@@ -117,7 +117,7 @@
                 <h3 class="text-center text-xl">Soft Skills &amp; Competencies</h3>
                 <hr class="w-full border border-rocket-green mt-6">
                 <div>
-                    <p class="px-4 text-center">Throughout my professional life I have dealt with a range of projects, people, circumstances, challenges, successes, and failures - all of which have taught me valuble skills which I bring to my freelancing work.</p>
+                    <p class="px-4 text-center">Throughout my professional life I have dealt with a range of projects, people, circumstances, challenges, successes, and failures - all of which have taught me valuable skills which I bring to my freelancing work.</p>
                 </div>
                 <hr class="w-full border border-dashed border-rocket-green mt-2">
                 <div class="text-center">
