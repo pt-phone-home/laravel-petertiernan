@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="/css/custom.css">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900|Prata&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/de93c2514e.js"></script>
+    <link rel="stylesheet" href="{{asset('css/toastr.min.css')}}">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
 
     <title>@yield('title')</title>
@@ -18,7 +20,7 @@
             <div>
                 <a href="/"><img src="/images/logo.png" alt="" class="object-contain h-12 w-auto"></a>
             </div>
-            <div class="flex items-center w-1/3">
+            <div class="flex items-center w-1/2 sm:w-1/3">
                 <div class="w-1/2">
                     @if(\Route::is('index'))
                     <a href="/#myWork"><h4 class="text-rocket-green">My Work</h4></a>
@@ -53,6 +55,19 @@
     
     @section('scripts')
     <script src="{{asset('js/app.js')}}"></script>
+    <script src="{{asset('js/toastr.min.js')}}"></script>
+    <script> 
+
+        @if(Session::has('success'))
+    
+        toastr.success("{{Session::get('success')}}")
+        @endif
+        
+        @if(Session::has('info'))
+    
+        toastr.info("{{Session::get('info')}}")
+        @endif
+    </script>
     @show
 </body>
 </html>

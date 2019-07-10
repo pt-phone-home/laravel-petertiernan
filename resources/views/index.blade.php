@@ -142,7 +142,7 @@
                 <p class="text-2xl text-gray-100 font-display">Interesting in working together?</p>
             </div>
             <div>
-                <a href="#" class="border-2 border-gray-100 text-gray-100 hover:text-rocket-green rounded-lg px-2 bg-transparent hover:bg-gray-100 py-2">Get in touch</a>
+            <a href="{{route('contact.get')}}" class="border-2 border-gray-100 text-gray-100 hover:text-rocket-green rounded-lg px-2 bg-transparent hover:bg-gray-100 py-2">Get in touch</a>
             </div>
         </div>
     </div>
@@ -227,7 +227,7 @@
                     <p class="text-2xl text-gray-100 font-display">Like what you see?</p>
                 </div>
                 <div>
-                    <a href="#" class="border-2 border-gray-100 text-gray-100 hover:text-rocket-green rounded-lg px-2 bg-transparent hover:bg-gray-100 py-2">Get in touch</a>
+                <a href="{{route('contact.get')}}" class="border-2 border-gray-100 text-gray-100 hover:text-rocket-green rounded-lg px-2 bg-transparent hover:bg-gray-100 py-2">Get in touch</a>
                 </div>
             </div>
         </div>

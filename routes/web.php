@@ -17,3 +17,4 @@
 
 Route::get('/', 'PagesController@index')->name('index');
 Route::get('/contact', 'PagesController@contact')->name('contact.get');
+Route::post('/contactEmail', 'PagesController@sendEmail')->name('contact.post');
