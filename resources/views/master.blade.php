@@ -10,6 +10,7 @@
     <script src="https://kit.fontawesome.com/de93c2514e.js"></script>
     <link rel="stylesheet" href="{{asset('css/toastr.min.css')}}">
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png"/>
 
 
     <title>@yield('title')</title>
