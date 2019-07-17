@@ -139,7 +139,7 @@
     <div class="container mx-auto py-12 bg-rocket-green rounded-lg">
         <div class="flex justify-around items-center">
             <div>
-                <p class="text-2xl text-gray-100 font-display">Interesting in working together?</p>
+                <p class="text-2xl text-gray-100 font-display">Interested in working together?</p>
             </div>
             <div>
             <a href="{{route('contact.get')}}" class="border-2 border-gray-100 text-gray-100 hover:text-rocket-green rounded-lg px-2 bg-transparent hover:bg-gray-100 py-2">Get in touch</a>
