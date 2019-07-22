@@ -8,7 +8,7 @@
 <div>
     <div class="container mx-auto flex flex-col justify-center items-center">
         <h2 class="font-display text-3xl mt-24 tracking-wider font-bold text-center">Full Stack Web Developer, Software Engineer &amp; Designer</h2>
-        
+
     </div>
     <div class="container mx-auto flex justify-center items-center pt-8">
         <div class="h-20r bg-rocket-green px-4 rounded-full py-4">
@@ -48,7 +48,7 @@
                 <div class="w-24">
                     <i class="fab fa-vuejs text-6xl text-gray-100"></i>
                 </div>
-                
+
             </div>
         </div>
     </div>
@@ -81,7 +81,7 @@
                     </ul>
                 </div>
             </div>
-        </div> 
+        </div>
         <div class="w-full sm:w-1/2 lg:w-1/3 flex">
             <div class="flex flex-col mt-2 sm:mt-0 mx-2 px-4 py-4 border-2 border-rocket-green rounded-lg">
                 <div class="flex justify-center items-center mb-2 text-5xl text-rocket-green">
@@ -168,8 +168,8 @@
                 <img src="/images/OMmeats.png" alt="" class="w-1/5 sm:w-2/5 h-auto object-cover">
                 <h5 class="font-display text-center mt-2">O'Mahony Meats</h5>
                 <div class="portfolio-cover bg-rocket-red-trans flex flex-col">
-                    <p class="text-center text-white mb-4">Website for SME. Includeds back-end built with Laravel where client can create news, recipe, careers, and offer items. Built using Laravel, TailwindCss and GSAP Animation. {Development almost complete}</p>
-                    <a href="http://178.62.84.207/" target="_blank" class="border-2 font-bold border-white rounded-lg px-2 py-1 text-lg text-white">Visit Site</a>
+                    <p class="text-center text-white mb-4">Website for SME. Includeds back-end built with Laravel where client can create news, recipe, careers, and offer items. Built using Laravel, TailwindCss and GSAP Animation.</p>
+                    <a href="https://www.omahonymeats.ie" target="_blank" class="border-2 font-bold border-white rounded-lg px-2 py-1 text-lg text-white">Visit Site</a>
                 </div>
             </div>
         </div>
@@ -244,11 +244,11 @@
                     <div class="h-auto w-1/5"><img src="/images/cityfarm.png" alt="" class="h-full w-full rounded-full border-2 border-rocket-green px-4 py-4"></div><h3 class="text-lg ml-8">St. Anne's City Farm</h3>
                 </div>
                 <div>
-                    <p class="italic"> <br> 
-                        Thank you for St. Anne's City Farm's amazing website! We are absolutely delighted. 
+                    <p class="italic"> <br>
+                        Thank you for St. Anne's City Farm's amazing website! We are absolutely delighted.
                         5 &star; service.
                         <br>
-                        
+
                     </p>
                 </div>
             </div>
@@ -257,10 +257,10 @@
                     <div class="h-auto w-1/5"><img src="/images/logoifn.jpg" alt="" class="h-full w-full rounded-full border-2 border-rocket-green px-4 py-4"></div><h3 class="text-lg ml-8">Island Ferries</h3>
                 </div>
                 <div>
-                    <p class="italic"> <br> 
+                    <p class="italic"> <br>
                         A huge thank you to Peter for doing an amazing job on our new website. Very professional and easy to deal with. We are really happy with the results.
                         <br>
-                        
+
                     </p>
                 </div>
             </div>
