@@ -15,7 +15,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" content="Freelance full-stack web developer and software developer based in Dublin, Ireland. Hightly qualified and motivated. ">
-  <meta name="keywords" content="Web design, web development, Dublin-based, affordable, Small business, responsive design, custom design, affordable websites, freelance, website design, SEO, E-commerce, SME">
+  <meta name="keywords" content="Web design, web development, software development, Dublin-based, affordable, Small business, responsive design, custom design, affordable websites, freelance, website design, SEO, E-commerce, SME">
     <link rel="stylesheet" href="{{asset('css/main.css')}}">
     <link rel="stylesheet" href="/css/custom.css">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900|Prata&display=swap" rel="stylesheet">
