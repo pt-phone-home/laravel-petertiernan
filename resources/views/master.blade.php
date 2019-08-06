@@ -14,6 +14,8 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Freelance full-stack web developer and software developer based in Dublin, Ireland. Hightly qualified and motivated. ">
+  <meta name="keywords" content="Web design, web development, Dublin-based, affordable, Small business, responsive design, custom design, affordable websites, freelance, website design, SEO, E-commerce, SME">
     <link rel="stylesheet" href="{{asset('css/main.css')}}">
     <link rel="stylesheet" href="/css/custom.css">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900|Prata&display=swap" rel="stylesheet">
@@ -58,24 +60,24 @@
                 <p class=""><i class="fal fa-at mr-4"></i>ptiernan@gmail.com</p>
                 <p><i class="fab fa-twitter mr-4"></i> <a href="https://twitter.com/PhPete1" target="_blank" class="no-underline hover:text-gray-300">Twitter</a> </p>
                 <p><i class="fab fa-github mr-4"></i> <a href="https://github.com/pt-phone-home" target="_blank" class="no-underline hover:text-gray-300">GitHub</a> </p>
-                
+
             </div>
 
         </div>
     </div>
-    
+
     @section('scripts')
     <script src="{{asset('js/app.js')}}"></script>
     <script src="{{asset('js/toastr.min.js')}}"></script>
-    <script> 
+    <script>
 
         @if(Session::has('success'))
-    
+
         toastr.success("{{Session::get('success')}}")
         @endif
-        
+
         @if(Session::has('info'))
-    
+
         toastr.info("{{Session::get('info')}}")
         @endif
     </script>
