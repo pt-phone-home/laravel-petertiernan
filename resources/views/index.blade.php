@@ -23,7 +23,7 @@
     <div class="w-full lg:w-1/2 flex justify-center items-center">
         <div class="py-16">
             <h2 class="text-gray-100 text-3xl font-display text-center mb-4">Hi, I'm Peter</h2>
-            <p class="text-gray-100 px-16 text-center tracking-wide text-lg">I am a part-time web-developer and designer. During the day, I work as full-time academic in the areas of educational technology, e-learning, and innovation. To-date, my freelancing career has involved working with mainly SME clients - developing web applicaitons and software solutions. However, I am happy to work the clients from any sector.</p>
+            <p class="text-gray-100 px-16 text-center tracking-wide text-lg">I am a web-developer and designer. I like building all sorts of web applications and websites but I am especially interested in applications for education. I am always open to collaborating with others. I work as full-time academic in the areas of educational technology, e-learning, and innovation. To-date, my freelancing career has involved working with mainly SME clients - developing web applicaitons and software solutions. However, I am happy to work the clients from any sector.</p>
         </div>
     </div>
     <div class="w-full lg:w-1/2 flex justify-center items-center">
